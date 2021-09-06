@@ -1,3 +1,7 @@
+# This program is intended to provide the user with three choices, one of those choices represents the "winner"
+#  The user has the ability to change their selection to one of the other options after learning which option was not the "winner"
+#  At the end, the user is informed if their last choice was the winner or not.
+
 # Select the winning location
 import random
 # Selects a number between 1 and 3 (1 included, 4 not included)
